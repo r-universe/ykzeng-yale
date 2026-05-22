@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "wdsmatch"]
 	path = wdsmatch
-	url = https://github.com/ykzeng-yale/wdsmatch
+	url = https://github.com/cran/wdsmatch
